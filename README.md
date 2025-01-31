@@ -1,94 +1,88 @@
-# Joudi Nox Website Design Plan
+---
+title: "Joudi Nox - Official Website"
+description: "Music, Art, and Multimedia by Joudi Nox"
+theme: "dark"
+color: "#8B0000"
+---
 
-## 🎭 Overall Aesthetic
-- **Color Theme**: Black (#000000) and Red (#8B0000), with accents of deep pink (#E60073) and dark gray (#333333).
-- **Vibe**: Dark, mysterious, elegant, cinematic, and immersive.
-- **Motifs**: Feminine shapes, mirror reflections, glowing neon elements.
-- **Typography**:
-  - **Titles/Headings**: Elegant serif (e.g., Cinzel, Cormorant Garamond).
-  - **Body Text**: Modern sans-serif (e.g., Montserrat, Poppins).
-  - **Accents**: Handwritten script for emotional/lyrical elements.
+# Joudi Nox  
+*A sound that echoes through the dark.*
+
+![Joudi Nox Banner](static/images/banner.jpg)
+
+## 🎶 Listen Now  
+> ✨ **New Single: "How to Be a Man"** – Available February 27th, 2025  
+[🎧 Listen on Spotify](#) | [🎼 Apple Music](#) | [🎮 SoundCloud](#)  
 
 ---
 
-## 🌑 Homepage (Landing Page)
-### **Hero Section**
-- **Background**: Large **cinematic black & red** image or video.
-- **Main Text**: "Joudi Nox" in an elegant, neon-lit font.
-- **Effect**: A **mirror reflection of the text** slightly flickering.
-- **Button**: "Enter" or "Listen Now" (glowing red hover effect).
+## 🖤 About Me  
+**Dark. Feminine. Cinematic. Raw.**  
+Joudi Nox is a **musician, sound designer, and filmmaker** weaving hauntingly beautiful soundscapes with bold storytelling. With a style that blends **ethereal vocals, noir aesthetics, and raw emotion**, her work transcends traditional genres.  
 
-### **Navigation Bar (Sticky)**
-- **Transparent dark background** with subtle red glow on hover.
-- **Menu Items**: `Home | Music | Visuals | About | Contact`
-- **Effect**: Navbar shrinks when scrolling.
+![Joudi Nox Profile](static/images/joudi-profile.jpg)  
+
+💡 *"Music is the mirror that distorts and reveals everything all at once."*  
+
+🔗 **More about me:** [Read Full Bio](#)  
 
 ---
 
-## 🎶 Music & Portfolio Page
-### **Music Player**
-- **Dark-themed custom player** embedded (Spotify, SoundCloud, etc.).
-- **Song List Layout**:
-  - Vertical layout with **titles mirrored underneath** (blurred reflection effect).
-  - Red neon underlines for emphasis.
-  
-### **Visual Elements**
-- **Music Videos**:
-  - Embedded inside **tilted polaroid-style frames**.
-  - **Hover Effect**: Frame slightly moves, like a floating photo.
-  
----
+## 🎧 Music & Releases  
+### **🔥 Latest Single: "How to Be a Man"**  
+📅 **Release Date:** February 27, 2025  
 
-## 🎭 About Page
-### **Main Layout**
-- **Large Black & White Portrait** with subtle **red highlight effects**.
-- **Personal Bio** written in a **storytelling format**, rather than a basic bio.
-- **Quote or Lyrics Overlay** in a **handwritten script font**.
+🎵 **Tracklist** (From *How to Be... EP*)  
+1. How to Be a Man  
+2. Dumb Girl  
+3. Maybe Not  
+4. Whatever Your Name Was  
+
+📀 [Listen on Spotify](#) | [Buy on Bandcamp](#)  
+
+### **🎶 Full Discography**  
+[▶ **The Affair EP** (Coming 2025)](#)  
+[🎻 **Violin Album** (TBA)](#)  
 
 ---
 
-## 🎥 Interactive Elements
-### **Hover Effects**
-- **Neon glow** on links and buttons.
-- **Images shift slightly** when hovered over (parallax depth effect).
+## 🎥 Visuals & Films  
+**🩸 A world painted in red & black.**  
+Joudi Nox creates **visual storytelling that mirrors the emotion of her music**, through music videos, short films, and experimental cinematography.  
 
-### **Background Animation**
-- **Subtle noise/grain filter** for a vintage film feel.
-- **Lyrics fade in/out dynamically** as if whispered in the background.
+🎬 **Watch the latest videos:**  
+- 🎥 ["How to Be a Man" Official Music Video](#)  
+- 🎞 ["It Didn’t" Short Film](#)  
+- 🎭 [All Visual Projects](#)  
 
-### **Special Features (Future Ideas)**
-1. **Shattered Glass Loading Effect** – When the site loads, it briefly **breaks apart like a mirror** before fading into the homepage.
-2. **Lyric Visualizer Page** – Lyrics appear dynamically as users scroll.
-3. **Light/Dark Mode Toggle** – Instead of traditional "light/dark," the toggle could switch between:
-   - **Deep Black with Red Neon**
-   - **Blood-Red with Black Inverted Elements**
-   
----
-
-## 📩 Contact & Footer
-### **Footer**
-- **Centered, simple footer** with "© 2025 Joudi Nox | KNOCKS Entertainment."
-- **Social Media Icons**: **Thin red neon-style icons** that glow on hover.
-- **Mirrored Reflection Effect**: Faint duplicate of the footer below it.
+![Film Still](static/images/film-still.jpg)  
 
 ---
 
-## 🚀 Next Steps
-### **1️⃣ Set Up GitHub Pages**
-- Use **Hugo + GitHub Pages** for deployment.
-- Choose a minimalistic base theme and customize fully.
+## 🎮 Sound Design & Game Audio  
+> **"Horror lives in the silence between the notes."**  
+Beyond music, Joudi Nox crafts **immersive soundscapes** for video games, film, and media.  
 
-### **2️⃣ Design the CSS**
-- Custom **dark mode styling**.
-- Implement **mirrored text effects** using CSS.
+🎮 **Featured Projects:**  
+- **"Echoes of Glass"** (Horror Game Soundtrack)  
+- **"Red Velvet"** (Interactive Music Experience)  
+- **"Midnight Noir"** (Film Score)  
 
-### **3️⃣ Code the Pages**
-- Use **HTML + Markdown + CSS** for static content.
-- Add **JavaScript for animations and interactions**.
-
-### **4️⃣ Test & Deploy**
-- Ensure **mobile responsiveness**.
-- Optimize **image loading and performance**.
-- Deploy and share!
+🔊 [Listen to My Sound Design Work](#)  
 
 ---
+
+## 📬 Contact & Booking  
+💌 **Want to collaborate? Need custom music or sound design?**  
+📩 **Email:** [contact@joudinox.com](mailto:contact@joudinox.com)  
+
+🌎 **Follow Me Online:**  
+[🎭 Instagram](#) | [🎼 Twitter/X](#) | [🎬 YouTube](#)  
+
+---
+
+## 🔥 **Join the Dark Side**  
+Subscribe for **early access to music, exclusive behind-the-scenes, and creative updates.**  
+
+📩 **[Subscribe to the Newsletter](#)**  
+
